@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Treeapp-React/static/css/main.f6a4f2da.css",
+    "main.js": "/Treeapp-React/static/js/main.30889b8f.js",
+    "static/js/787.619578fb.chunk.js": "/Treeapp-React/static/js/787.619578fb.chunk.js",
+    "index.html": "/Treeapp-React/index.html",
+    "main.f6a4f2da.css.map": "/Treeapp-React/static/css/main.f6a4f2da.css.map",
+    "main.30889b8f.js.map": "/Treeapp-React/static/js/main.30889b8f.js.map",
+    "787.619578fb.chunk.js.map": "/Treeapp-React/static/js/787.619578fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6a4f2da.css",
+    "static/js/main.30889b8f.js"
+  ]
+}
