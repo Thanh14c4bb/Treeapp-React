@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Treeapp-Reactjs/static/css/main.f6a4f2da.css",
-    "main.js": "/Treeapp-Reactjs/static/js/main.abdf0a82.js",
-    "static/js/787.619578fb.chunk.js": "/Treeapp-Reactjs/static/js/787.619578fb.chunk.js",
-    "index.html": "/Treeapp-Reactjs/index.html",
-    "main.f6a4f2da.css.map": "/Treeapp-Reactjs/static/css/main.f6a4f2da.css.map",
-    "main.abdf0a82.js.map": "/Treeapp-Reactjs/static/js/main.abdf0a82.js.map",
-    "787.619578fb.chunk.js.map": "/Treeapp-Reactjs/static/js/787.619578fb.chunk.js.map"
+    "main.css": "/Treeapp-Reactjs2023/static/css/main.f6a4f2da.css",
+    "main.js": "/Treeapp-Reactjs2023/static/js/main.b6b7f875.js",
+    "static/js/787.619578fb.chunk.js": "/Treeapp-Reactjs2023/static/js/787.619578fb.chunk.js",
+    "index.html": "/Treeapp-Reactjs2023/index.html",
+    "main.f6a4f2da.css.map": "/Treeapp-Reactjs2023/static/css/main.f6a4f2da.css.map",
+    "main.b6b7f875.js.map": "/Treeapp-Reactjs2023/static/js/main.b6b7f875.js.map",
+    "787.619578fb.chunk.js.map": "/Treeapp-Reactjs2023/static/js/787.619578fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6a4f2da.css",
-    "static/js/main.abdf0a82.js"
+    "static/js/main.b6b7f875.js"
   ]
 }
